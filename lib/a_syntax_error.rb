@@ -1,3 +1,2 @@
-x = "1"
-
-x = 
+2.times 2 
+puts "hi"
